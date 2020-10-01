@@ -20,14 +20,17 @@ The program prompts the user for a flight number. It then requests the number of
 
 Option four (4)
 The program prompts for a flight number and seat location in order to make a booking. Seats are numbered by rows 1..60 and A..F in each row. If the seat is available, it is allocated and does not show as available any more. If a non-available seat is requested an error message will appear.
+
 Option four (5)
 Upon exit the modified data will be written to the same file (called flights.dat) in the same format as originally.
 The format of the file is:
+
 XXXXX
 XX/XX/XXXX XX:XX
 XXXXXXXXXXXX
 XXXXXXXXXXXX
 XXXXXXXXX
+
 blank line separates flights
 // Flight number e.g. VA502
 // Date and time
