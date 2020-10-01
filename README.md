@@ -27,7 +27,7 @@ Upon exit the modified data will be written to the same file (called flights.dat
 The format of the file is:
 
 blank line separates flights
-// Flight number e.g. VA502
+// Flight number e.g. VA502 \n
 // Date and time
 // 20 char for departure airport
 // 20 char for arrival airport
