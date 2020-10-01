@@ -23,13 +23,8 @@ The program prompts for a flight number and seat location in order to make a boo
 
 Option four (5)
 Upon exit the modified data will be written to the same file (called flights.dat) in the same format as originally.
-The format of the file is:
 
-XXXXX
-XX/XX/XXXX XX:XX
-XXXXXXXXXXXX
-XXXXXXXXXXXX
-XXXXXXXXX
+The format of the file is:
 
 blank line separates flights
 // Flight number e.g. VA502
